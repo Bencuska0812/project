@@ -26,4 +26,8 @@
 ## ÖSSZEKAPCS REPO
 
 - GITHUB repo létrehozás
-- Összekapcsolási parancs
+- Összekapcsolási parancs:
+>   git remote add origin https://github.com/Bencuska0812/project.git
+
+- meg kell mondani a legleső alkalommal, hogy melyik ágat használjuk és feltesszük a legújabb verziónkat.
+> git push -u origin master
